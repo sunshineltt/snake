@@ -6,11 +6,14 @@
 }
 body{
 	color:#fff;
+	background:#000;
+ 
 }
 #sence{
 	width:600px;
 	height:600px;
-	background:#000;
+ 
+ 
 	margin:0 auto;
 
 }
@@ -19,6 +22,6 @@ body{
 	height:28px;
 	background:#fff;
 	float:left;
-	margin-right:1px;
-	margin-bottom:1px;
+	 margin-right:1px;
+	margin-bottom:1px; 
 }
